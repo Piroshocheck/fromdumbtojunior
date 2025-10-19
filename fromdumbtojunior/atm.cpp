@@ -2,6 +2,8 @@
 #include <string>
 #include <map>
 
+// A simple registation/login based on c++.
+
 std::map<std::string, std::string> database;
 
 
